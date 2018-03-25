@@ -1,0 +1,4 @@
+include 'apps:delay-service'
+include 'apps:blocking-app'
+include 'apps:reactive-app'
+include 'apps:load-test'
